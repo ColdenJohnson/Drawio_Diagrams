@@ -134,9 +134,6 @@
                         <mxPoint x="240" y="-1555.68" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="2" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.electro-mechanical.loudspeaker;" vertex="1" parent="1">
-                    <mxGeometry x="740" y="-1600" width="25" height="50" as="geometry"/>
-                </mxCell>
                 <mxCell id="3" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.electro-mechanical.loudspeaker;" vertex="1" parent="1">
                     <mxGeometry x="1230" y="-1640" width="70" height="160" as="geometry"/>
                 </mxCell>
